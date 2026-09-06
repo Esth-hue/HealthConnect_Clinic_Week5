@@ -135,23 +135,23 @@ Slicers were synchronized across the relevant pages to support interactive filte
 
 ## Key Business Insights
 
-1. No-shows are a major operational issue
+• No-shows are a major operational issue
    
 The clinic recorded a 48.46% no-show rate, meaning almost half of scheduled appointments were missed.
 
-2. Longer booking lead times are strongly associated with no-shows
+• Longer booking lead times are strongly associated with no-shows
    
 The no-show rate increased from 27.81% for appointments booked 0–7 days ahead to 67.69% for appointments booked 46–60 days ahead.
 
-3. Previous no-show behaviour is an important risk indicator
+• Previous no-show behaviour is an important risk indicator
    
 Patients with previous no-shows generally recorded higher current no-show rates.
 
-4. Reminder coverage is incomplete
+• Reminder coverage is incomplete
    
 Only 72.68% of appointments received reminders. Appointments with reminders had an observed no-show rate of 47.36%, compared with 51.39% without reminders.
 
-5. Follow-up appointments require attention
+• Follow-up appointments require attention
    
 Follow-up appointments had the highest observed no-show rate at 51.23%.
 
